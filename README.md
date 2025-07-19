@@ -6,7 +6,7 @@ This repository contains my personal web portfolio and a fully functional calcul
 
 ## 🌐 Live Site
 
-👉 [View Online](https://github.com/mianzaman11/Portfolio)  
+👉 [View Online](https://github.com/mianzaman11/Portfolio/)  
 
 
 ---
